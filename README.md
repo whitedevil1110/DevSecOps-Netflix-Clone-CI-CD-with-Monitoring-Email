@@ -12,7 +12,7 @@
 
 # Project Steps :-
 
-- **Step 1** — [Launch an Ubuntu(22.04) T2 Large Instance](https://github.com/whitedevil1110/blob/master/DevSecOps-Netflix-Clone-CI-CD-with-Monitoring-Email/README.md#step-1-launch-an-ubuntu2204-t2-large-instance)
+- **Step 1** — [Launch an Ubuntu(22.04) T2 Large Instance](https://github.com/whitedevil1110/DevSecOps-Netflix-Clone-CI-CD-with-Monitoring-Email/blob/master/README.md#step-1-launch-an-ubuntu2204-t2-large-instance)
 - **Step 2** — [Install Jenkins, Docker and Trivy. Create a Sonarqube Container using Docker.](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-2--install-jenkins-docker-and-trivy-create-a-sonarqube-container-using-docker)
 - **Step 3** — [Create a TMDB API Key.](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-3-create-a-tmdb-api-key)
 - **Step 4** — [Install Prometheus and Grafana On the new Server.](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-4--install-prometheus-and-grafana-on-the-new-server)
